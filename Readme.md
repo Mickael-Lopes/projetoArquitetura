@@ -10,4 +10,7 @@ Escopo: Atividades de atendimento, agendamento e/ou cancelamento de consulta, le
 
 * Prontuário eletrônico: um registro seguro e acessível mostrando a evolução do paciente após cada consulta, facilita e continuidade no atendimento;
 
-* Controle financeiro: automatiza a cobrança 
+* Controle financeiro: automatiza cobrança, facilita prestação de contas e fluxo de caixa;
+
+* Cadastro do cliente: Necessário para identificação do paciente, contato e rastreabilidade do tratamento;
+
