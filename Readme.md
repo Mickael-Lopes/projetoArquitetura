@@ -8,4 +8,8 @@ Escopo: Atividades de atendimento, agendamento e/ou cancelamento de consulta, le
 
 [Descrição da 1º entrevista](descRecepcionista.md)
 
+[Descrição da 2º entrevista](descPsicologa.md)
+
+[Lista geral dos requisitos](listaGeral.md)
+
 [Matriz de rastreabilidade](matrizRastreabilidade.md)
