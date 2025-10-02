@@ -1,10 +1,5 @@
 ## LISTA DE REQUISITOS
 
-# Escopo
-    Atividades de atendimento, agendamento e/ou cancelamento de consulta, lembretes e/ou aviso (sessões, pagamentos), confirmação de consulta, prontuário e controle de pagamento.
-
-# Lista de necessidades
-
 * Agendamento e/ou cancelamento de consulta: permite organizar a agenda dos profissionais para que consigam atender seus pacientes, além de reduzir o trabalho manual de agendamento na recepção;
 
 * Envio de lembretes automáticos e confirmação: ao enviar lembretes/confirmação de consulta aos pacientes ocorre uma diminuição de possíveis esquecimentos, melhora adesão do paciente e o fluxo financeiro;
