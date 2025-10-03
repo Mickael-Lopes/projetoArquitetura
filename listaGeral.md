@@ -1,8 +1,8 @@
-## Lista de Requisitos – Geral
+# Lista de Requisitos – Geral
 
 Esta lista combina os requisitos do escopo, da análise do sistema análogo e das necessidades de negócio, divididos em Funcionais e Não Funcionais.
 
-# Requisitos Funcionais (RF)
+## Requisitos Funcionais (RF)
 
 ●	RF01 - Gerenciar Pacientes:
 ○	O sistema deve permitir cadastrar, visualizar, editar e inativar pacientes.
