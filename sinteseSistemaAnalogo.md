@@ -40,15 +40,15 @@ O Psicoplanner é um sistema web voltado para a gestão de consultórios psicol�
 
 ## Requisitos de usuário
 
-• Psicólogo: cadastra pacientes, gerencia atendimentos, registra prontuários e controla pagamentos.
-• Secretária/Assistente: auxilia na marcação de consultas e controle administrativo.
-• Paciente: recebe notificações, confirmações e acessa link de videochamada.
-• Administrador do sistema: gerencia contas e suporte técnico.
+- Psicólogo: cadastra pacientes, gerencia atendimentos, registra prontuários e controla pagamentos.
+- Secretária/Assistente: auxilia na marcação de consultas e controle administrativo.
+- Paciente: recebe notificações, confirmações e acessa link de videochamada.
+- Administrador do sistema: gerencia contas e suporte técnico.
 
 ## Objetivos principais do sistema
 
-• Reduzir o tempo gasto em tarefas administrativas.
-• Aumentar a organização e segurança das informações clínicas.
-• Melhorar a comunicação entre psicólogo e paciente.
-• Promover eficiência operacional e qualidade no atendimento psicológico.
+- Reduzir o tempo gasto em tarefas administrativas.
+- Aumentar a organização e segurança das informações clínicas.
+- Melhorar a comunicação entre psicólogo e paciente.
+- Promover eficiência operacional e qualidade no atendimento psicológico.
 
