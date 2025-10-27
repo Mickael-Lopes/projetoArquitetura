@@ -20,3 +20,8 @@ Escopo: Atividades de atendimento, agendamento e/ou cancelamento de consulta, le
 [Lista geral dos requisitos](listaGeral.md);
 
 [Matriz de rastreabilidade](matrizRastreabilidade.md);
+
+
+## 2º etapa:
+
+[Casos de Uso Completo](casosDeUso.md);
