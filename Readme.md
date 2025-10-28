@@ -24,4 +24,6 @@ Escopo: Atividades de atendimento, agendamento e/ou cancelamento de consulta, le
 
 ## 2º etapa:
 
+[Diagrama de casos de uso](DiagramaCasosUso.md);
+
 [Casos de Uso Completo](casosDeUso.md);

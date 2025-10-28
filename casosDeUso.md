@@ -2,7 +2,7 @@
 
 ## Gerenciar paciente ##
 
-<n>Objetivo:</n> Permitir que o ator cadastre, visualize, edite e inative os dados cadastrais de um paciente no sistema;
+Objetivo: Permitir que o ator cadastre, visualize, edite e inative os dados cadastrais de um paciente no sistema;
 
 Ator primário: Secretária/Assistente e Psicologa;
 
@@ -12,7 +12,7 @@ Pós-Condição: Um novo paciente é registrado ou os dados de um paciente exist
 
 ## Gerenciar agenda ##
 
-<n>Objetivo:</n> Permite que o ator consiga agendar, reagendar e cancelar consultas no sistema
+Objetivo: Permite que o ator consiga agendar, reagendar e cancelar consultas no sistema
 
 Ator primário: Secretária/Assistente e Psicologa;
 
@@ -22,36 +22,40 @@ Pós-Condição: Consulta registrada na agenda;
 
 ## Gerenciar prontuário ##
 
-<n>Objetivo:</n> O ator registra a consulta com o paciente, acompanha a evolução e consegue fazer atualizações conrfome necessário;
+Objetivo: O ator registra a consulta com o paciente, acompanha a evolução e consegue fazer atualizações conrfome necessário;
 
 Ator principal: Psicóloga;
 
 Pré-condição: Paciente devidamente cadastrado e psicóloga autenticada;
+
 Pós-condição: Prontuário atualizado com segurança;
 
 ## Autenticação e controle de acesso ##
 
-<n>Objetivo:</n> O sistema deve ser seguro e permitir um acesso limpo e sem dificuldades;
+Objetivo: O sistema deve ser seguro e permitir um acesso limpo e sem dificuldades;
 
 Ator primário: todos os usuários;
 
 Pré-condição: Conta de usuário criada;
+
 Pós-condição: Acesso permitido conforme as permissões do usuário;
 
 ## Enviar lembretes/avisos ##
 
-<n>Objetivo:</n> Notificar pacientes sobre consultas agendadas e/ou pagamentos;
+Objetivo: Notificar pacientes sobre consultas agendadas e/ou pagamentos;
 
 Ator primário: Sistema (automático);
 
 Pré-condição: Consulta agendada e paciente com telefone de contato válido;
+
 Pós-condição:Paciente notificado;
 
 ## Gerenciar pagamentos ##
 
-<n>Objetivo:</n> Registrar status e valores de pagamento;
+Objetivo: Registrar status e valores de pagamento;
 
 Ator primário: Secretária/Assistente e Psicologa;
 
 Pré-condição: Consulta realizada e registrada;
+
 Pós-condição: Pagamento atualizado e registrado;
