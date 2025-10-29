@@ -24,6 +24,14 @@ Escopo: Atividades de atendimento, agendamento e/ou cancelamento de consulta, le
 
 ## 2º etapa:
 
-[Diagrama de casos de uso](DiagramaCasosUso.md);
+[Diagrama de casos de uso](diagrama.png);
 
 [Casos de Uso Completo](casosDeUso.md);
+
+[Matriz de Rastreabilidade atualizada (horizontal e vertical)](MatrizHorizontalVertical.md);
+
+[Documento visão]();
+
+[Especificação suplementar](especificacaoSuplementar.md);
+
+[Especificação de Requisitos (EOR – Especificação de Objetivos e Requisitos e/ou IEEE 830) ](EOR.md);
