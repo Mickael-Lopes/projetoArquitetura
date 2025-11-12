@@ -30,8 +30,21 @@ Escopo: Atividades de atendimento, agendamento e/ou cancelamento de consulta, le
 
 [Matriz de Rastreabilidade atualizada (horizontal e vertical)](MatrizHorizontalVertical.md);
 
-[Documento visão]();
+[Documento visão](documentoVisao.md);
 
 [Especificação suplementar](especificacaoSuplementar.md);
 
+[Protótipo Tela de inicio](protTelasInicio.png);
+[Protótipo Tela do Paciente](protTelasPaciente.png);
+[Protótipo Tela da Psicologa](protTelasPsico.png);
+
 [Especificação de Requisitos (EOR – Especificação de Objetivos e Requisitos e/ou IEEE 830) ](EOR.md);
+
+
+## 3º etapa
+
+[Diagrama de entidade-relacionamento]();
+
+[Diagrama de casos de uso](diagramaCasosUso.jpg);
+
+[Modelo C4](modeloC4.md);
