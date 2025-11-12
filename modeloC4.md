@@ -36,11 +36,11 @@ Cada container tem responsabilidades bem definidas e comunica-se via **API REST*
 
 | Container                   | Tipo                              | Responsabilidade                                                                                         |
 | --------------------------- | --------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| **Frontend Web**            | Aplicação Web (React/Angular/Vue) | Interface gráfica para psicólogos, secretárias e pacientes. Exibe agendamentos, cadastros e prontuários. |
-| **Backend API**             | Servidor (C# .NET Core / Node.js) | Processa regras de negócio, autenticação, controle de acesso e comunicação com serviços externos.        |
-| **Banco de Dados**          | MySQL / PostgreSQL                | Armazena informações de pacientes, consultas, pagamentos e prontuários.                                  |
+| **Frontend Web**            | Aplicação Web (Angular) | Interface gráfica para psicólogos, secretárias e pacientes. Exibe agendamentos, cadastros e prontuários. |
+| **Backend API**             | Servidor (C# .NET Core) | Processa regras de negócio, autenticação, controle de acesso e comunicação com serviços externos.        |
+| **Banco de Dados**          | PostgreSQL                | Armazena informações de pacientes, consultas, pagamentos e prontuários.                                  |
 | **Serviço de Notificações** | Microserviço / API externa        | Envia lembretes automáticos e confirmações por WhatsApp e e-mail.                                        |
-| **Serviço de Autenticação** | Módulo interno ou OAuth           | Garante login seguro e controle de permissões (Psicólogo, Secretária, Administrador).                    |
+| **Serviço de Autenticação** | Módulo interno          | Garante login seguro e controle de permissões (Psicólogo, Secretária, Administrador).                    |
 | **Google Calendar API**     | Serviço Externo                   | Sincroniza os compromissos e horários do psicólogo.                                                      |
 | **Armazenamento em Nuvem**  | Serviço Externo                   | Guarda backups e documentos anexados (opcional).                                                         |
 
